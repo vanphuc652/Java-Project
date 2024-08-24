@@ -17,6 +17,8 @@ public class JavaApplication8 {
         System.out.println("Mul: " + mul);
         float div = (float) x/y;
         System.out.println("Div: " + div);
+        int rema = x%y;
+        System.out.println("Remaider: " + rema);
     }
     
 }
